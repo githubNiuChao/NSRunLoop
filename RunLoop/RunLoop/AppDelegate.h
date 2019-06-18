@@ -11,11 +11,7 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
-
-//test1
-//test2
-
+//master分支更改
 
 @end
 
